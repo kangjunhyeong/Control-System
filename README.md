@@ -41,3 +41,7 @@ $$
 $$
 \ Y(s) = \frac{K}{s(s+50)} \
 $$
+
+$$
+\ \lim_{{t \to \infty}} y(t) = \lim_{{s \to 0}} sY(s) \
+$$

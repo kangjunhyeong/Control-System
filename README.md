@@ -73,7 +73,7 @@ $$
 \ X(s) = \frac{1}{{Ms^2 + bs + k}} \
 $$  
 
-![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/f01c3a61-b94c-4f24-a50a-2ba5be5c1d11)
+![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/f01c3a61-b94c-4f24-a50a-2ba5be5c1d11)  
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/bb947e48-c9fa-4d9e-8c16-ce20cc65bbeb)  
 
 질량 M에 대해 식을 세우면
@@ -86,4 +86,10 @@ $$
 
 $$
 \ Ms^2X(s) + bs(X(s)-Y(s)) + k(X(s)-Y(s)) = F(s) \
+$$
+
+질량 m에 대해 식을 세우면  
+
+$$
+\ m\frac{d^2y(t)}{dt^2} + b\frac{d(y(t)-x(t))}{dt} + k(y(t)-x(t)) = 0 \
 $$

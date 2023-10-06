@@ -59,5 +59,13 @@ $$
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/3c6eb060-c2f8-488d-a985-48e1892386f9)  
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/3395feda-b0c5-422b-a0c3-8aacde33aeca)  
 
+$$
+\ M\frac{d^2x}{dt^2} + kx + b\frac{dx}{dt} = \delta(t) \
+$$  
 
+라플라스 변환을 해주고 초기조건이 0인 것을 이용하면  
+
+$$
+\ Ms^2X(s) + bsX(s) + kX(s) = 1 \
+$$
 

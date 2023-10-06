@@ -47,3 +47,11 @@ $$
 $$
 \ \lim_{{t \to \infty}} y(t) = \lim_{{s \to 0}} sY(s) \
 $$
+
+$$
+\ \lim_{{t \to \infty}} y(t) = \lim_{{s \to 0}} \frac{sK}{{s(s+50)}} \
+$$
+
+$$
+1 = \frac{K}{50}, K = 50
+$$

@@ -74,7 +74,7 @@ $$
 $$  
 
 $$
-\x(t) = \frac{2 \cdot \exp\left(-\frac{b \cdot t}{2M}\right) \cdot \sin\left(\frac{t \cdot \sqrt{-b^2 + 4Mk}}{2M}\right)}{\sqrt{-b^2 + 4Mk}}\
+x(t) = \frac{2 \cdot \exp\left(-\frac{b \cdot t}{2M}\right) \cdot \sin\left(\frac{t \cdot \sqrt{-b^2 + 4Mk}}{2M}\right)}{\sqrt{-b^2 + 4Mk}}\
 $$
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/f01c3a61-b94c-4f24-a50a-2ba5be5c1d11)  
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/bb947e48-c9fa-4d9e-8c16-ce20cc65bbeb)  

@@ -42,6 +42,8 @@ $$
 \ Y(s) = \frac{K}{s(s+50)} \
 $$
 
+그리고 "y(t) → 1" 일 때 \( t \rightarrow \infty \)
+
 $$
 \ \lim_{{t \to \infty}} y(t) = \lim_{{s \to 0}} sY(s) \
 $$

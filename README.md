@@ -54,4 +54,10 @@ $$
 
 $$
  \frac{K}{50} = 1 , K = 50
-$$
+$$  
+
+![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/3c6eb060-c2f8-488d-a985-48e1892386f9)  
+![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/3395feda-b0c5-422b-a0c3-8aacde33aeca)  
+
+
+

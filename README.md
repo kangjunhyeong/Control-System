@@ -23,3 +23,6 @@ $$
 $$
 \frac{V_{2}(s)}{V_{1}(s)} = -\frac{1}{RCs}\
 $$
+
+![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/3f5d6808-7034-4a8f-a820-fc501004331a)  
+

@@ -26,3 +26,12 @@ $$
 
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/3f5d6808-7034-4a8f-a820-fc501004331a)  
 
+$$
+\ Y(s) = R(s) \cdot \frac{1}{s + 50} \
+$$
+
+이 때 r(t)=unit step이므로  
+
+$$
+\ r(t) = 1 \ , \ R(s) = \frac{1}{s} \
+$$

@@ -109,5 +109,11 @@ $$
 이 식을 질량 M에 대해 라플라스변환한 식에 대입을 하고 정리를 하면  
 
 $$
-\[ \frac{Y(s)}{F(s)} = \frac{bs + k}{(Ms^2 + bs + k)(ms^2 + bs + k) - (bs + k)^2} \]
+\ \frac{Y(s)}{F(s)} = \frac{bs + k}{(Ms^2 + bs + k)(ms^2 + bs + k) - (bs + k)^2} \
 $$
+
+![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/8331d875-c7a2-4355-9dd4-b52a79d31e3a)  
+![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/dde4efa0-2157-440d-b486-11b293d8942e)  
+
+
+

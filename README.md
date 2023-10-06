@@ -115,3 +115,14 @@ $$
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/8331d875-c7a2-4355-9dd4-b52a79d31e3a)  
 ![image](https://github.com/kangjunhyeong/Control-System/assets/144297425/dde4efa0-2157-440d-b486-11b293d8942e)  
 
+질량 m1에 대해 식을 세우면  
+
+$$
+\ m_1\frac{d^2x(t)}{dt^2} + K_1x(t) + K_2(x(t)-y(t)) = 0 \
+$$  
+
+m_1=m_2=1, K_1=K_2=1 이므로  
+
+$$
+\ frac{d^2x(t)}{dt^2}+2x(t)-y(t) = 0 \
+$$
